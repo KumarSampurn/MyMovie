@@ -24,3 +24,8 @@ The Movie List is taken from a API so you will be needing a Internet connection 
 - To watch list for specific users by linking with database
 
 
+Few Samples from the website:
+![image](./src/images/1.png)
+![image](./src/images/2.png)
+![image](./src/images/3.png)
+![image](./src/images/4.png)
